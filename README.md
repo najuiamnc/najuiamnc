@@ -143,3 +143,5 @@ Me chamo Julia de Souza Amancio, tenho 22 anos e sou natural do Rio de Janeiro. 
   />
 
 </p>
+
+🔗 **[Aceda ao meu Portfólio aqui](https://najuiamnc.github.io/portfolio-python-projects/)**
