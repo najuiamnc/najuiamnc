@@ -6,8 +6,8 @@ Me chamo Julia de Souza Amâncio, tenho 22 anos e sou natural de
 Porto Real, RJ. Concluí o ensino médio no Pedro Braile Neto e 
 estou cursando Análise e Desenvolvimento de Sistemas na UNIP. 
 Apaixonada por tecnologia, estou aprendendo Python, PHP e 
-JavaScript na prática — construindo projetos reais como bots 
-para Discord, automações e este portfólio.
+JavaScript na prática. Construindo projetos reais como bots 
+para Discord e algumas automações.
 
 ---
 
