@@ -13,14 +13,13 @@
 <!-- CONTACT -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/najuiamnc)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-am%C3%A2ncio)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)](https://persona-rho-nine.vercel.app)
 
 </div>
 
 <br/>
 
-<!-- STATS BAR -->
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=najuiamnc&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
@@ -79,8 +78,8 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app.vercel.app/api?username=najuiamnc&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&rank_icon=github"/>
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app.vercel.app/api/top-langs/?username=najuiamnc&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=najuiamnc&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuiamnc&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
 
@@ -96,11 +95,11 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 ---
 
-## 🕯️ Insights Lit — Education
+## 🕯️ Bonfires Lit — Education
 
 | | Course | Status |
 |:---:|:---|:---:|
-| ◈ | Systems Analysis & Development | 🔄 In Progress |
+| ◈ | Systems Analysis & Development (UNIP) | 🔄 In Progress |
 | ◈ | AWS Tech Journey — Santander | 🔄 In Progress |
 | ◈ | Microsoft AI-900 Certification | ✅ Complete |
 | ◈ | GenAI & Data Bootcamp — DIO | ✅ Complete |
@@ -111,7 +110,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 <div align="center">
 
-[![Personal Portfolio]([https://github-readme-stats-sigma-five.vercel.app.vercel.app/api/pin/?username=najuiamnc&repo=persona&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/najuiamnc/persona](https://najuiamnc.github.io/portfolio-pessoal/))
+[![portfolio-pessoal](https://github-readme-stats.vercel.app/api/pin/?username=najuiamnc&repo=portfolio-pessoal&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/najuiamnc/portfolio-pessoal)
 
 </div>
 
