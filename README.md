@@ -100,7 +100,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 | | Course | Status |
 |:---:|:---|:---:|
-| ◈ | Systems Analysis & Development (UNIP) | 🔄 In Progress |
+| ◈ | Systems Analysis & Development | 🔄 In Progress |
 | ◈ | AWS Tech Journey — Santander | 🔄 In Progress |
 | ◈ | Microsoft AI-900 Certification | ✅ Complete |
 | ◈ | GenAI & Data Bootcamp — DIO | ✅ Complete |
@@ -111,7 +111,6 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 <div align="center">
 
-[![Incentivo-Bot](https://github-readme-stats.vercel.app/api/pin/?username=najuiamnc&repo=incentivo-bot&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/najuiamnc/incentivo-bot)
 [![Persona](https://github-readme-stats.vercel.app/api/pin/?username=najuiamnc&repo=persona&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/najuiamnc/persona)
 
 </div>
