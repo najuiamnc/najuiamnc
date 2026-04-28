@@ -79,8 +79,8 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=najuiamnc&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&rank_icon=github"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuiamnc&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app.vercel.app/api?username=najuiamnc&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&rank_icon=github"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app.vercel.app/api/top-langs/?username=najuiamnc&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
 
@@ -111,7 +111,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 <div align="center">
 
-[![Persona](https://github-readme-stats.vercel.app/api/pin/?username=najuiamnc&repo=persona&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/najuiamnc/persona)
+[![Persona](https://github-readme-stats-sigma-five.vercel.app.vercel.app/api/pin/?username=najuiamnc&repo=persona&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/najuiamnc/persona)
 
 </div>
 
