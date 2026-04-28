@@ -3,14 +3,14 @@
   <img src="https://raw.githubusercontent.com/najuiamnc/najuiamnc/main/banner.png" width="100%" alt="banner"/>
 </div>
 
-<!-- TITLE BAR -->
+<!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Training;Refuses+to+go+hollow.;Praise+the+Sun+%F0%9F%8C%9E" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Training;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
 </div>
 
 <br/>
 
-<!-- CONTACT BADGES -->
+<!-- CONTACT -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/najuiamnc)
@@ -20,36 +20,31 @@
 
 <br/>
 
-<!-- PROFILE VIEWS / STATS BAR -->
+<!-- STATS BAR -->
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=najuiamnc&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
-![Commits](https://img.shields.io/github/commit-activity/y/najuiamnc/najuiamnc?style=flat-square&color=555&label=COMMIT+ACTIVITY&logoColor=white)
 
 </div>
 
-<br/>
-
 ---
-
-<!-- BIO + IMAGE SIDE BY SIDE -->
 
 **Backend Developer in Training**
 
-> *"I used to think there was no path. Then I found the bonfire."*
+> *"We are born of the blood, made men by the blood, undone by the blood."*
 
 Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
 
 I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, **Git** and am currently exploring **AWS & Cloud Computing**.
 
-<img align="right" width="260px" src="https://raw.githubusercontent.com/najuiamnc/najuiamnc/main/char.png" alt="Dark Souls character art"/>
+<img align="right" width="240px" src="https://raw.githubusercontent.com/najuiamnc/najuiamnc/main/char.jpg" alt="Bloodborne Hunter"/>
 
 ```
 ◈  Class     →  Backend / Full-Stack Apprentice
 ◈  Origin    →  Brazil 🇧🇷
 ◈  Covenant  →  Open Source
 ◈  Build     →  INT / DEX
-◈  Status    →  Undead. Refuses to go hollow.
+◈  Status    →  Hunter. Refuses to go hollow.
 ```
 
 <br clear="right"/>
@@ -80,12 +75,10 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 <div align="center">
 
-<!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=najuiamnc&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c&hide_border=false" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=najuiamnc&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
 
 <br/><br/>
 
-<!-- GITHUB STATS + TOP LANGS SIDE BY SIDE -->
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=najuiamnc&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&rank_icon=github"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuiamnc&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
@@ -103,7 +96,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 ---
 
-## 🔥 Bonfires Lit — Education
+## 🕯️ Insights Lit — Education
 
 | | Course | Status |
 |:---:|:---|:---:|
@@ -127,6 +120,6 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 <div align="center">
 
-*† YOU DIED — but the repository lives on †*
+*† Seek Paleblood to transcend the Hunt †*
 
 </div>
