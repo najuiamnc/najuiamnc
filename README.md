@@ -1,26 +1,125 @@
-<!-- HEADER -->
+<!-- BANNER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/najuiamnc/najuiamnc/main/banner.png" width="100%" alt="banner"/>
+</div>
+
+<!-- TITLE BAR -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Training;Refuses+to+go+hollow.;Praise+the+Sun+%F0%9F%8C%9E" alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<!-- CONTACT BADGES -->
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/najuiamnc)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)](https://persona-rho-nine.vercel.app)
+
+</div>
+
+<br/>
+
+<!-- PROFILE VIEWS / STATS BAR -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=najuiamnc&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+![Commits](https://img.shields.io/github/commit-activity/y/najuiamnc/najuiamnc?style=flat-square&color=555&label=COMMIT+ACTIVITY&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<!-- BIO + IMAGE SIDE BY SIDE -->
+
+**Backend Developer in Training**
+
+> *"I used to think there was no path. Then I found the bonfire."*
+
+Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
+
+I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, **Git** and am currently exploring **AWS & Cloud Computing**.
+
+<img align="right" width="260px" src="https://raw.githubusercontent.com/najuiamnc/najuiamnc/main/char.png" alt="Dark Souls character art"/>
+
 ```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢠⣿⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣿⣧⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢠⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣷⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⣿⡟⠀⠀⢠⣶⣿⣷⡄⠀⠀⠀⢠⣾⣿⣶⡄⠀⠀⢻⣿⡀⠀⠀⠀
-⠀⠀⠀⢸⣿⠃⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠠⣿⡇⠀⠀⠀
-⠀⠀⠀⠘⣿⡆⠀⠀⠀⠉⠉⠉⠀⠀⣀⠀⠀⠉⠉⠉⠀⠀⠀⢸⣿⠃⠀⠀⠀
-⠀⠀⠀⠀⢹⣿⡄⠀⠀⠀⠀⠀⢀⣴⣿⣦⡀⠀⠀⠀⠀⠀⢀⣿⡏⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢻⣿⣄⠀⠀⠀⠀⠀⠉⠉⠉⠀⠀⠀⠀⠀⢀⣾⡿⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠙⢿⣷⣄⣀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣾⡿⠋⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⢿⣿⣿⣿⣿⣿⡿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
+◈  Class     →  Backend / Full-Stack Apprentice
+◈  Origin    →  Brazil 🇧🇷
+◈  Covenant  →  Open Source
+◈  Build     →  INT / DEX
+◈  Status    →  Undead. Refuses to go hollow.
 ```
 
-# ⚔️ THOU ART CHOSEN ⚔️
+<br clear="right"/>
 
-*— The bonfire has been lit —*
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=MedievalSharp&size=22&pause=1000&color=8B6914&center=true&vCenter=true&width=600&lines=Arise%2C+Undead...;Your+journey+begins+here.;Link+the+First+Flame.;Praise+the+Sun+%F0%9F%8C%9E)](https://git.io/typing-svg)
+## Technologies
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
+![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=c9a84c)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
+![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=c9a84c)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
+
+</div>
+
+---
+
+## Statistics
+
+<div align="center">
+
+<!-- STREAK STATS -->
+<img src="https://streak-stats.demolab.com?user=najuiamnc&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c&hide_border=false" alt="streak"/>
+
+<br/><br/>
+
+<!-- GITHUB STATS + TOP LANGS SIDE BY SIDE -->
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=najuiamnc&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&rank_icon=github"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuiamnc&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+
+</div>
+
+---
+
+## 📜 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najuiamnc&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/najuiamnc)
+
+</div>
+
+---
+
+## 🔥 Bonfires Lit — Education
+
+| | Course | Status |
+|:---:|:---|:---:|
+| ◈ | Systems Analysis & Development (UNIP) | 🔄 In Progress |
+| ◈ | AWS Tech Journey — Santander | 🔄 In Progress |
+| ◈ | Microsoft AI-900 Certification | ✅ Complete |
+| ◈ | GenAI & Data Bootcamp — DIO | ✅ Complete |
+
+---
+
+## 🗡️ Featured Projects
+
+<div align="center">
+
+[![Incentivo-Bot](https://github-readme-stats.vercel.app/api/pin/?username=najuiamnc&repo=incentivo-bot&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/najuiamnc/incentivo-bot)
+[![Persona](https://github-readme-stats.vercel.app/api/pin/?username=najuiamnc&repo=persona&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/najuiamnc/persona)
 
 </div>
 
@@ -28,126 +127,6 @@
 
 <div align="center">
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                             ▓
-▓        THE ASHEN ONE — NAJUIAMNC            ▓
-▓                                             ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-</div>
-
-## 🕯️ LORE
-
-> *"A developer who refused to go hollow. Kindles the flame of knowledge with every commit."*
-
-```
-CLASS      →  Backend / Full-Stack Apprentice
-ORIGIN     →  Brazil 🇧🇷
-COVENANT   →  Way of Blue (Open Source)
-STAT BUILD →  INT / DEX
-CURRENT    →  Systems Analysis & Development @ UNIP
-```
-
----
-
-## ⚔️ SKILL TREE — ATTRIBUTES
-
-```
-STR  [Python / SQL / PHP]      ████████████░░░  80 / 99
-DEX  [HTML / CSS / JavaScript] ███████████░░░░  74 / 99
-INT  [AWS & Cloud]             ████████░░░░░░░  55 / 99
-FTH  [Git / GitHub]            ████████████░░░  82 / 99
-LCK  [Problem Solving]         █████████░░░░░░  60 / 99
-```
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=c9a84c)
-![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
-![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=c9a84c)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=c9a84c)
-![HTML](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=c9a84c)
-![CSS](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=c9a84c)
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=c9a84c)
-![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=c9a84c)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=c9a84c)
-
-</div>
-
----
-
-## 🗡️ INVENTORY — FEATURED PROJECTS
-
-```
-┌─────────────────────────────────────────────────────┐
-│  ⚔  Incentivo-Bot                                   │
-│     TYPE    →  Rare / Discord Bot                   │
-│     FORGE   →  Python                               │
-│     STATUS  →  DEPLOYED — Active in the world       │
-│     EFFECT  →  Emotional support & automation       │
-└─────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────┐
-│  🛡  Personal Portfolio                              │
-│     TYPE    →  Legendary / Web App                  │
-│     FORGE   →  HTML · CSS · JavaScript · React      │
-│     STATUS  →  BUILT — Standing strong              │
-│     EFFECT  →  Showcases the journey of the Ashen   │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## 🔥 BONFIRES LIT — CERTIFICATIONS & EDUCATION
-
-```
-◈  Systems Analysis & Development (UNIP)     [ IN PROGRESS ]
-◈  AWS Tech Journey — Santander              [ IN PROGRESS ]
-◈  Microsoft AI-900 Certification            [ KINDLED ✓  ]
-◈  GenAI & Data Bootcamp — DIO               [ KINDLED ✓  ]
-```
-
----
-
-## 📜 GITHUB STATS — THE UNDEAD RECORD
-
-<div align="center">
-
-![najuiamnc's GitHub stats](https://github-readme-stats.vercel.app/api?username=najuiamnc&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=d4d4d4&bg_color=0d0d0d&border_color=3a3a3a&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najuiamnc&layout=compact&theme=dark&title_color=c9a84c&text_color=d4d4d4&bg_color=0d0d0d&border_color=3a3a3a)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=najuiamnc&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=3a3a3a&stroke=3a3a3a&dates=888888)
-
-</div>
-
----
-
-## 🌑 THE DARK SIGN — CONTACT
-
-```
-  If thou seekest an ally for thy quest...
-```
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-najuiamnc-1a1a2e?style=for-the-badge&logo=github&logoColor=c9a84c)](https://github.com/najuiamnc)
-
-</div>
-
----
-
-<div align="center">
-
-```
-        ⠀⠀⠀† YOU DIED †⠀⠀⠀
-   — but the repository lives on —
-```
-
-*"It's a dangerous road. But in this world, it's either forge the flame or go hollow."*
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=najuiamnc.najuiamnc&left_color=1a1a2e&right_color=8B6914&left_text=Ashen+Ones+Visited)
+*† YOU DIED — but the repository lives on †*
 
 </div>
