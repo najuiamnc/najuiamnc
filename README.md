@@ -99,7 +99,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 | | Course | Status |
 |:---:|:---|:---:|
-| ◈ | Systems Analysis & Development (UNIP) | 🔄 In Progress |
+| ◈ | Systems Analysis & Development | 🔄 In Progress |
 | ◈ | AWS Tech Journey — Santander | 🔄 In Progress |
 | ◈ | Microsoft AI-900 Certification | ✅ Complete |
 | ◈ | GenAI & Data Bootcamp — DIO | ✅ Complete |
